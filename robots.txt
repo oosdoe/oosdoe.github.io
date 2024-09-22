@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oosdoe.github.io/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/app/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/assets/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/css/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/data/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/includes/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/item/sitemap.html.gz
+Sitemap: https://oosdoe.github.io/src/sitemap.html.gz
